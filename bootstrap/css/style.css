@@ -1,0 +1,81 @@
+.fl-left {
+  float: left;
+}
+
+.color-white {
+  color: white;
+}
+
+.bg-red {
+  background-color: rgb(255, 71, 71);
+}
+
+.bg-red2 {
+  background-color: rgb(255, 149, 149);
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.rotate-30 {
+  transform: rotate(10deg);
+}
+
+.height-600 {
+  height: 600px;
+}
+
+.height-300 {
+  height: 300px;
+}
+
+.mg-bottom {
+  margin-bottom: 6rem;
+}
+
+.relative {
+  position: relative;
+}
+
+.border-card {
+  border-right-width: 0;
+}
+
+.position {
+  position: absolute;
+  top: 2rem;
+  right: 30rem;
+}
+
+.mg-bot {
+  margin-bottom: 0;
+}
+
+.pd-top {
+  padding-top: 32px;
+}
+
+.left {
+  width: 15rem;
+  text-align: left;
+}
+
+.center {
+  width: 50rem;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.img-dog {
+  border-radius: 100%;
+  max-width: 100px;
+  margin-left: 10rem;
+  float: left;
+}
+
+.marcas {
+  max-width: 200px;
+  margin: 0 2rem;
+}
